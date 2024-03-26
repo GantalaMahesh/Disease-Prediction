@@ -35,3 +35,5 @@ Integrate real-time data sources for continuous model refinement and updates.
 ## Acknowledgements:
 Dataset source:
 https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning
+
+Thanks to @codealpha
